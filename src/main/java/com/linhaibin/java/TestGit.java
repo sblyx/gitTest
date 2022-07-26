@@ -15,6 +15,9 @@ public class TestGit {
         System.out.println("test pull");
         System.out.println("test li ");
         System.out.println("test li ");
+        System.out.println("test li ");
+        System.out.println("test li ");
+        System.out.println("test li ");
 
 
 
